@@ -1,0 +1,8 @@
+externalDependencies.xml
+misc.xml
+modules.xml
+SampleRepoPR_Practice.iml
+vcs.xml
+workspace.xml
+*.xml
+/.idea
